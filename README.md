@@ -65,12 +65,12 @@ We provide a pre-trained example containing projection image data for 100ms and 
 
 1.  **Checkpoints (Weights)**:
 
-      * Download Link: [Google Drive - Checkpoints](https://www.google.com/search?q=https://drive.google.com/drive/folders/1ixCHxHdSNeKZ0XGeEnsLIGbvyhBNYPQd%3Fusp%3Ddrive_link)
+      * Download Link: [Google Drive - Checkpoints](https://drive.google.com/drive/folders/1ixCHxHdSNeKZ0XGeEnsLIGbvyhBNYPQd?usp=sharing)
       * **Action**: Download and place the folder into the project's `checkpoints` directory. (Ensure the folder name is `yutou_100ms` to match the command below).
 
 2.  **Test Dataset**:
 
-      * Download Link: [Google Drive - Test Data](https://www.google.com/search?q=https://drive.google.com/drive/folders/17eODuKbqK5qE2_sW14MA-ff0VmOtjb85%3Fusp%3Ddrive_link)
+      * Download Link: [Google Drive - Test Data](https://drive.google.com/drive/folders/17eODuKbqK5qE2_sW14MA-ff0VmOtjb85?usp=sharing)
       * **Content**: Includes 100 projection images each for 100ms and 5ms scenarios.
       * **Action**: Download and place the dataset folder into the project directory (e.g., under `datasets`, or specify the path using `--dataroot`).
 
